@@ -1,0 +1,19 @@
+.navbar{
+    background-color: red;
+}
+
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: 600;
+    margin-left: 50px;
+}
+
+.navbar-nav{
+    margin-left: auto !important;
+    margin-right: 50px;
+}
